@@ -6305,7 +6305,6 @@ print(effect_sizes)
 # Control: X-squared = 11.932, df = 1, p-value = 0.0005518, h = 0.50 (medium effect), highly significant (i think it should be explained by ceiling effect of competition)
 # Cooperation: X-squared = 11.623, df = 1, p-value = 0.0006515, h = 0.50 (medium effect), significant
 
-#ugh the interpretation is complex
 
 
 
